@@ -3,10 +3,6 @@ package ru.dartinc.templater;
 import freemarker.template.Configuration;
 import freemarker.template.Template;
 import freemarker.template.TemplateException;
-
-import javax.security.auth.login.AppConfigurationEntry;
-
-import java.io.File;
 import java.io.IOException;
 import java.io.StringWriter;
 import java.io.Writer;
